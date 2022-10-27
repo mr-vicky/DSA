@@ -7,3 +7,4 @@ This is my Github repository where are practice and code DSA.
 - 01_Mathematics 
 - 02_Bit_Magic
 - 03_Recursion
+- 04_Array
