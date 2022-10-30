@@ -17,7 +17,7 @@ bool isSorted(int arr[], int n)
 // Method 2
 bool isSorted2(int arr[], int n) 
 {
-    for(int i=0; i<n; i++)
+    for(int i=1; i<n; i++)
         if(arr[i]<arr[i-1])
             return false;
 
@@ -27,7 +27,7 @@ bool isSorted2(int arr[], int n)
 
 int main()
 {
-    int arr[5]={1, 5, 13, 8, 7};
+    int arr[5]={1, 2, 3, 4, 5};
     int n=5;
     cout<<boolalpha<<isSorted(arr, n)<<endl;
     cout<<boolalpha<<isSorted2(arr, n)<<endl;
