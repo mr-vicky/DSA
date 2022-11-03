@@ -24,7 +24,7 @@ void leaders(int arr[], int n)
 }
 
 // Efficient Approach
-// Time: O(n)
+// Time: Θ(n)
 // Space: O(1)
 void Oleaders(int arr[], int n)
 {
