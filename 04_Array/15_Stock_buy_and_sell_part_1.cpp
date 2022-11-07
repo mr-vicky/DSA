@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
 
+// Naive Approach
+// Time: O(n^2)
+// Space: O(1)
 int maxProfit(int price[],int start, int end)
 {
     if(end <= start)
