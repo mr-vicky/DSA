@@ -8,3 +8,4 @@ This is my Github repository where are practice and code DSA.
 - 02_Bit_Magic
 - 03_Recursion
 - 04_Array
+- 05_Searching
