@@ -3,6 +3,7 @@ using namespace std;
 
 // Recursive solution
 // Time: log(n)
+// Aux Space: log(n)
 int bSearch2(int arr[], int x, int low, int high)
 {
     int mid=(low+high)/2;
