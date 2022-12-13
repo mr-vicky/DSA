@@ -36,7 +36,6 @@ int firstOccR(int arr[], int low, int high, int x)
     }
 }
 
-
 // Efficient method (recommended): Interative Solution
 // Time: O(log(n))
 // Aux Space: O(1)
