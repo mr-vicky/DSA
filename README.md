@@ -1,6 +1,6 @@
 # DSA-GFG
 
-This is my Github repository where are practice and code DSA.
+This is my Github repository, where I practice and code DSA.
 
 ## Index
 - 00_Introduction
