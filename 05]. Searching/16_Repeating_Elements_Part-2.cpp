@@ -2,6 +2,7 @@
 using namespace std;
 // solution works only if constraints are :  1 <= arr[i] <= n-1
 
+// Algorithm : 
 // TC: O(n)
 // SC: O(1)
 int repeatingElement(int arr[], int n)
