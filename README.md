@@ -2,7 +2,7 @@
 
 This is my Github repository, where I practice and code DSA.
 
-## Index
+## `Index`
 
 - 00]. [Introduction](https://github.com/mr-vicky/DSA-GFG/tree/main/00%5D.%20Introduction)
 - 01]. [Mathematics](https://github.com/mr-vicky/DSA-GFG/tree/main/01%5D.%20Mathematics)
