@@ -3,7 +3,7 @@
 using namespace std;
 
 // Super Naive Method:
-// TC: O(n)
+// TC: O(n*n)
 // SC: O(1)
 int isRepeated1(int arr[], int n)
 {
