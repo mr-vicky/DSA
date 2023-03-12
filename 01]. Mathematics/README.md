@@ -1,5 +1,7 @@
 # Mathematics
 
+## `Index`
+
 - 01]. [Problem - Number Of Digits In A Number](https://github.com/mr-vicky/DSA/blob/main/01%5D.%20Mathematics/01_NumberOfDigitsInANumber.cpp)
 - 02]. [Problem - Palindrome Number](https://github.com/mr-vicky/DSA/blob/main/01%5D.%20Mathematics/02_PalindromeNumber.cpp)
 - 03]. [Problem - Factorial](https://github.com/mr-vicky/DSA/blob/main/01%5D.%20Mathematics/03_Factorial.cpp)

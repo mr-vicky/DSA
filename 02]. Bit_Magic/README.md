@@ -1,5 +1,7 @@
 # Bit Manipulation
 
+## `Index`
+
 - 01]. [Concept - Bitwise Operators-1](https://github.com/mr-vicky/DSA/blob/main/02%5D.%20Bit_Magic/01_BitwiseOperators.cpp)
 - 02]. [Concept - Bitwise Operators-2](https://github.com/mr-vicky/DSA/blob/main/02%5D.%20Bit_Magic/02_BitwiseOperators2.cpp)
 - 03]. [Problem - Check kth bit is set or not](https://github.com/mr-vicky/DSA/blob/main/02%5D.%20Bit_Magic/03_Check_kth_bit_is_set_or_not.cpp)
