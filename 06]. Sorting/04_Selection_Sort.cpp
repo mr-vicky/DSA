@@ -3,7 +3,7 @@
 using namespace std;
 
 // Selection Sort:
-// TC: O(n*n)
+// TC: O(n^2)
 // SC: O(n)
 void SelectionSort1(int arr[], int n)
 {
