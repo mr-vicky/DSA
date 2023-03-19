@@ -1,3 +1,5 @@
+// Note: Selection Algorithms is not a STABLE algorithm 
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
