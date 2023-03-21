@@ -73,7 +73,6 @@ int main()
     for(auto x: arr)    
         cout<<x<<" ";
 
-
     MergeFunction(arr, low, mid, high);
 
     cout<<"\nArray after using Merge function: \n";
