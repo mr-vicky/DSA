@@ -32,6 +32,7 @@ void merge1(int a[], int b[], int n1, int n2)
 void merge2(int a[], int b[], int n1, int n2)
 {
     int arr[n1+n2];
+    // Standerd Merge Logic:
     int i=0, j=0, k=0;
     while(i<n1 && j<n2)
     {
