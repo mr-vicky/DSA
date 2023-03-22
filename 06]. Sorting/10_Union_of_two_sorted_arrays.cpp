@@ -63,7 +63,7 @@ void getUnion3(int a[], int m, int b[], int n)
         {
             j++;
             continue;
-        }else 
+        } 
 
         if(a[i]<b[j])
         {
