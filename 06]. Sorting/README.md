@@ -10,5 +10,7 @@
 - 05]. [Algorithm - Insertion Sort](https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/05_Insertion_Sort.cpp)
 - 06]. [Algorithm - Merge Function](https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/06_Merge_Function_of_Merge_Sort.cpp)
 - 07]. [Algorithm - Merge Sort](https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/07_Merge_Sort.cpp)
+- 08]. [Problem - Merge Two Sorted arrays](https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/08_Merge_two_sorted_arrays.cpp)
+
 
 
