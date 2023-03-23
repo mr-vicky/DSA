@@ -27,7 +27,7 @@ void Merge(int arr[], int l, int m, int h)
     for(int i=0; i<n2; i++)
         right[i]=arr[m+1+i];
 
-    // Standerd Merge Logic:
+    // Standard Merge Logic:
     int i=0, j=0, k=l;
 
     while(i<n1 && j<n2)

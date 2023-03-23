@@ -48,7 +48,7 @@ void getUnion2(int a[], int m, int b[], int n)
 // SC: O(1)
 void getUnion3(int a[], int m, int b[], int n)
 {
-    // Standerd Merge Function Logic:
+    // Standard Merge Function Logic:
     int i=0, j=0;
     int count=0;
     while(i<m && j<n)

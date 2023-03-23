@@ -1,7 +1,7 @@
 /*
 Merge Function of Merge Sort: 
 - This function is used to merge the two sorted subarrays to make the whole array sorted 
-- This is a standerd function which used in the implementation of the merge sort
+- This is a standard function which used in the implementation of the merge sort
 - TC: O(n)
 - SC: O(n)
 - array should contain atleast two elements.
@@ -27,7 +27,7 @@ void MergeFunction(int arr[], int low, int mid, int high)
         right[i]=arr[mid+i+1];
     }
 
-    // Standerd Merge Logic ->
+    // Standard Merge Logic ->
     int i=0;
     int j=0;
     int k=low;
