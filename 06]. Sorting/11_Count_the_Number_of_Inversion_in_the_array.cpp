@@ -77,7 +77,6 @@ int getInversions2(int arr[], int l, int r)
     return res;
 }
 
-
 int main()
 {
     int n = 5;
