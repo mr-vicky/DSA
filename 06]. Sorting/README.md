@@ -13,6 +13,12 @@
 - 08]. [Problem - Merge Two Sorted arrays](https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/08_Merge_two_sorted_arrays.cpp)
 - 09]. [Problem - Intersection of Two Sorted arrays](https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/09_Intersection_of_two_sorted_arrays.cpp)
 - 10]. [Problem - Union of Two Sorted arrays](https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/10_Union_of_two_sorted_arrays.cpp)
+- 11]. [Problem - Count the Number of Inversion in the array](https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/10_Union_of_two_sorted_arrays.cpp)
+
+
+
+
+https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/11_Count_the_Number_of_Inversion_in_the_array.cpp
 
 
 
