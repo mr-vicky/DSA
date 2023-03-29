@@ -11,3 +11,5 @@ This is my Github repository, where I practice and code DSA.
 - 04]. [Array](https://github.com/mr-vicky/DSA-GFG/tree/main/04%5D.%20Array)
 - 05]. [Searching](https://github.com/mr-vicky/DSA-GFG/tree/main/05%5D.%20Searching)
 - 06]. [Sorting](https://github.com/mr-vicky/DSA/tree/main/06%5D.%20Sorting)
+- 07]. [Matrix](https://github.com/mr-vicky/DSA/tree/main/07%5D.%20Matrix)
+
