@@ -14,12 +14,4 @@
 - 09]. [Problem - Intersection of Two Sorted arrays](https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/09_Intersection_of_two_sorted_arrays.cpp)
 - 10]. [Problem - Union of Two Sorted arrays](https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/10_Union_of_two_sorted_arrays.cpp)
 - 11]. [Problem - Count Inversions in array](https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/11_Count%20_inversions_in_Array.cpp)
-
-
-
-
-
-
-
-
-
+- 12]. [Problem - Partition a given array](https://github.com/mr-vicky/DSA/blob/main/06%5D.%20Sorting/12_Partition_a_given_array.cpp)
