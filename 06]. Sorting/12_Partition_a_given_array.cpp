@@ -47,7 +47,6 @@ void partition2(int arr[], int l, int h, int p)
             index++;
         }
     }
-
     for(int i=0; i<h; i++) cout<<arr[i]<<" ";
 }
 
