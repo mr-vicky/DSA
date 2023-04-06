@@ -1,5 +1,4 @@
 # DSA-GFG
-<img src = "./bg.png">
 This is my Github repository, where I practice and code DSA.
 
 ## `Index`
