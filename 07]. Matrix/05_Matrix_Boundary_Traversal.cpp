@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// TC: 0(R+C)
+// SC: O(1)
 void getBoundaryTraversal(int mat[4][4])
 {
     int R = 4;
@@ -24,7 +26,6 @@ void getBoundaryTraversal(int mat[4][4])
             cout<<mat[i][0]<<" ";
     }
 }
-
 
 int main()
 {
