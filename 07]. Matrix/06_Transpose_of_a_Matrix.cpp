@@ -29,7 +29,7 @@ void getTranspose2(int mat[4][4])
     int C=4;
 
     for(int i=0; i<R; i++)
-        for(int j=0; j<C; j++)
+        for(int j=i+1; j<C; j++)
             swap(mat[i][j], mat[j][i]);
 }
 

@@ -7,3 +7,7 @@
 - 03]. [Passing 2D arrays as Arguments](https://github.com/mr-vicky/DSA/blob/main/07%5D.%20Matrix/03_Passing_2D_arrays_as_arguments.cpp)
 - 04]. [Problem - Matrix in Snake Pattern](https://github.com/mr-vicky/DSA/blob/main/07%5D.%20Matrix/04_Matrix_in_Snake_Pattern.cpp)
 - 05]. [Problem - Matrix Boundary Traversal](https://github.com/mr-vicky/DSA/blob/main/07%5D.%20Matrix/05_Matrix_Boundary_Traversal.cpp)
+- 06]. [Problem - Transpose of the Matrix](https://github.com/mr-vicky/DSA/blob/main/07%5D.%20Matrix/06_Transpose_of_a_Matrix.cpp)
+
+
+
