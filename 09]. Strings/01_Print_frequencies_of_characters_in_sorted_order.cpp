@@ -2,6 +2,7 @@
 #include<string>
 using namespace std;
 
+// This function only works for lowercase letters only 
 void getFrequencies(string str)
 {
     int count[26]={0};
@@ -13,6 +14,7 @@ void getFrequencies(string str)
         if(count[i]>0)
             cout<<(char)(i +'a')<<" "<<count[i]<<endl;
 }
+
 
 int main()
 {
