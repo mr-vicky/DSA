@@ -13,7 +13,6 @@ bool isSubsequence(string &s1, string &s2, int n, int m){
     }
     for(int i=0; i<n && j<m; i++){
         if(s1[i]==s2[j]){
-            i++;
             j++;
         }
     }

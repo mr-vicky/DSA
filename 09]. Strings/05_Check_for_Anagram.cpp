@@ -53,10 +53,12 @@ int main(){
     string s3="java";
     string s4="python";
 
+    // Method 1: 
     cout<<boolalpha<<isAnagram1(s1, s2)<<endl;
     cout<<boolalpha<<isAnagram1(s3, s4)<<endl;
     cout<<endl;
 
+    // Method 2: 
     cout<<boolalpha<<isAnagram2(s1, s2)<<endl;
     cout<<boolalpha<<isAnagram2(s3, s4)<<endl;
     return 0;
