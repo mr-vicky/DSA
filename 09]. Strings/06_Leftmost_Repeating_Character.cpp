@@ -1,4 +1,6 @@
 #include<iostream>
+#include<string>
+#include<algorithm>
 using namespace std;
 
 // Method 1: Naive Method
@@ -35,6 +37,26 @@ int leftMostRepeatingCharacter2(string &str){
     return -1;
 }
 
+// Method 3: By traversing from right side of the string and by using the visited array 
+// TC: O(n)
+// SC: O(1)
+int leftMostRepeatingCharacter3(string str){
+    const int CHAR=256;
+    bool visited[CHAR];
+    int res=0;
+    fill(visited, visited+CHAR, false);
+
+    for(int i=str.length()-1; i>=0; i--){
+        if(visited[str[i]]){
+            res=i;
+        }
+        else{
+            visited[str[i]]=true;
+        }
+    }
+    return res;
+}
+
 int main()
 {
     string str="abccb";
@@ -43,6 +65,9 @@ int main()
 
     // Method 2: 
     cout<<leftMostRepeatingCharacter2(str)<<endl;
+
+    // Method 3: 
+    cout<<leftMostRepeatingCharacter3(str)<<endl;
 
     return 0;
 }
