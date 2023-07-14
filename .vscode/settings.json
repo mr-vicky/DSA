@@ -3,6 +3,8 @@
         "*.ejs": "html",
         "ostream": "cpp",
         "iostream": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "vector": "cpp",
+        "unordered_map": "cpp"
     }
 }
