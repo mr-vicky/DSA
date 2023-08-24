@@ -14,3 +14,4 @@ This is my Github repository, where I practice and code DSA.
 - 08]. [Hashing](https://github.com/mr-vicky/DSA/tree/main/08%5D.%20Hashing)
 - 09]. [String](https://github.com/mr-vicky/DSA/tree/main/09%5D.%20Strings)
 - 10]. [Linked List](https://github.com/mr-vicky/DSA/tree/main/10%5D.%20Linked%20List)
+- 11]. [Stack](https://github.com/mr-vicky/DSA/tree/main/11%5D.%20Stack)
