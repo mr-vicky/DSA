@@ -67,31 +67,31 @@ int evaluate(string postfix){
             switch (postfix[i]){
                 case '+':
                     res = x1 + x2;
-                    stk.push(res);
                     break;
 
                 case '-':
                     res = x1 - x2;
-                    stk.push(res);
                     break;
                 
                 case '*':
                     res = x1 * x2;
-                    stk.push(res);
                     break;
 
                 case '/': 
                     res = x1 / x2;
-                    stk.push(res);
                     break;
             }
+            stk.push(res);
         }
     }
     return stk.pop();
 }
 
 int main(){   
-    string postfix = "35*62/+4-";
-    cout << evaluate(postfix) << endl;
+    string postfix1 = "35*62/+4-";
+    cout << evaluate(postfix1) << endl;
+
+    string postfix2 = "234*+82/-";
+    cout << evaluate(postfix2) << endl;
     return 0;
 }
