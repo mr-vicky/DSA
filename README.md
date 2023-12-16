@@ -15,3 +15,4 @@ This is my Github repository, where I practice and code DSA.
 - 09]. [String](https://github.com/mr-vicky/DSA/tree/main/09%5D.%20Strings)
 - 10]. [Linked List](https://github.com/mr-vicky/DSA/tree/main/10%5D.%20Linked%20List)
 - 11]. [Stack](https://github.com/mr-vicky/DSA/tree/main/11%5D.%20Stack)
+- 12]. [Queues](https://github.com/mr-vicky/DSA/tree/main/12%5D.%20Queues)
