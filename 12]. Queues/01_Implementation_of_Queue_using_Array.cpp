@@ -8,6 +8,7 @@ struct Queue{
     int *Q;
 };
 
+// Adding the element (FIFO)
 void enqueue(Queue* q, int x){
     if(q -> Rear == q -> size-1 ){
         cout << "Queue is FULL!" << endl;
@@ -18,6 +19,7 @@ void enqueue(Queue* q, int x){
     }
 }
 
+// deleting the element (FIFO)
 int dequque(Queue* q){
     int x = -1;
     if(q -> Front == q -> Rear){
